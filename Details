@@ -1,0 +1,40 @@
+Smart Campus Portal
+Project Overview
+Smart Campus Portal is a web-based university automation system developed using ASP.NET Web Forms. It provides a centralized platform for students, faculty, and administrators to access campus services based on their roles. The portal simulates course registration, assignment submission, grading, announcements, and fee management.
+User Roles
+Student Portal
+View personal profile and academic records
+Register for courses (with prerequisites)
+Submit assignments and view grades
+Check fee details and payment status
+Faculty Portal
+Upload course content and assignments
+Grade student submissions
+Send announcements to students
+View attendance reports
+Admin Panel
+Add or remove students and faculty
+Manage courses and offerings
+Generate reports (e.g., fee and course registration stats)
+Tools & Technologies
+Backend: ASP.NET Web Forms, Linq to SQL
+Frontend: HTML, CSS, Bootstrap, JavaScript, jQuery
+Database: SQL Server (Linq to SQL)
+IDE: Visual Studio
+Features
+Role-based authentication with session management
+Fully responsive and mobile-friendly design
+CRUD operations for users, courses, assignments, and grades
+Dynamic dashboards for each user role
+Secure coding practices (input validation, safe queries)
+Future Enhancements
+Cloud deployment on Azure
+Real-time notifications for announcements
+Online payment gateway integration
+Analytics dashboard for administrators
+Mobile application version
+Repository Contents
+Complete Visual Studio ASP.NET solution folder
+All necessary project files to build and run locally
+Author
+Meerab Aijaz Khan – 01-135232-043
